@@ -1,10 +1,13 @@
-import Paper from './paper'
+import Paper from './Paper'
 
-import Card from './card'
-import CardTitle from './card/cardTitle'
+import Card from './Card'
+import CardTitle from './Card/CardTitle'
+
+import IconButton from './IconButton'
 
 export {
     Paper,
     Card,
-    CardTitle
+    CardTitle,
+    IconButton
 }
